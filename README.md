@@ -1,10 +1,13 @@
 # python 
-*** to find the area of the circle***
 from math import pi
-r= float(input("input the radius of the circle:")
-print("the area of the circle with radius" + str(r) "is:" + str(pi* r**2) 
-the coding ends
-#python 
+
+r = float(input ("Input the radius of the circle : "))
+
+print ("The area of the circle with radius " + str(r) + " is: " + str(pi * r**2))
+
+
+
+
 fn= input("Enter Filename: ")
 
 f = fn.split(".")
